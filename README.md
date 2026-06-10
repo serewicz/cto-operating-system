@@ -34,6 +34,7 @@ Use this repository as a working CTO playbook, not as static reading material.
 4. Use [AI Governance Framework](governance/ai-governance-framework.md), [Risk Register Template](governance/risk-register-template.md), and [ADR Template](governance/architecture-decision-record-template.md) to make governance concrete.
 5. Use the fractional CTO templates to drive executive cadence, board reporting, and monthly operating reviews.
 6. Use the scaling templates to clarify roles, team structure, and hiring decisions.
+7. Use [Operating Partner Technology Advisory Frameworks](operating-partner/) for the diligence, risk scoring, board brief, AI governance, portfolio review, and 100-day planning methodology that can be applied manually or automated in software.
 
 ## Core Operating Principle
 
@@ -48,8 +49,15 @@ docs/            CTO plans, assessment frameworks, organization reviews, and roa
 governance/      AI governance, architecture decisions, and technology risk registers
 due-diligence/   Investor and acquirer diligence frameworks
 fractional-cto/  Fractional CTO operating cadence and executive reporting templates
+operating-partner/ PE and CTO advisory methodology for diligence, board reporting, and post-close planning
 scaling/         Engineering levels, team topology, and hiring frameworks
 ```
+
+## Methodology and Automation
+
+This repository contains operating frameworks, templates, and diligence methodology. Executive AI Advisor is the software platform that implements and demonstrates portions of these workflows:
+
+https://github.com/serewicz/Executive-AI-Advisor
 
 ## Professional Bio
 
